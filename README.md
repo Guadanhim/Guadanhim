@@ -1,7 +1,7 @@
 
 # 🎐Giovana Guadanhim 
 
-Desenvolvedora Back-end Java de Araraquara-SP, Brazil, atualmente em transição de carreira, cursando a graduação de Sistemas de Informação. Meu primeiro contato com linguagens foi com HTML e CSS quando era adolescente.
+Desenvolvedora Back-end Java de Araraquara-SP, Brasil, atualmente em transição de carreira, cursando a graduação de Sistemas de Informação. Meu primeiro contato com linguagens foi com HTML e CSS quando era adolescente.
 Apaixonada por tecnologia, música, animes, jogos e a cultura oriental kawaii ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა.
 
 ## Conecte-se comigo! 
